@@ -1,0 +1,24 @@
+# Data files (never commit these)
+*.pdf
+*.txt
+*.csv
+*.pkl
+*.json
+*.png
+*.jpg
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv/
+venv/
+
+# Colab/System
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
